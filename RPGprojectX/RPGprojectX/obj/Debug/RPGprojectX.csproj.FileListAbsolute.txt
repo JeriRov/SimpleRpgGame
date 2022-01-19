@@ -1,0 +1,10 @@
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\bin\Debug\RPGprojectX.exe.config
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\bin\Debug\RPGprojectX.exe
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\bin\Debug\RPGprojectX.pdb
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.csproj.AssemblyReference.cache
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.Form1.resources
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.Properties.Resources.resources
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.csproj.GenerateResource.cache
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.csproj.CoreCompileInputs.cache
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.exe
+C:\Users\Jotaro\source\repos\RPGprojectX\RPGprojectX\obj\Debug\RPGprojectX.pdb
